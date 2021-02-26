@@ -21,7 +21,7 @@ setup(
     packages=find_packages(),
     python_requires='>= 3.6',
     install_requires=[
-        'aiohttp==3.5.4',
+        'aiohttp==3.7.4',
         'coloredlogs==10.0',
     ],
     entry_points={
